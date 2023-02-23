@@ -1,5 +1,6 @@
 # Welcome to the Point Clouds Fast Course
 
+
 In this course, you will learn to build a 3D Object detection system.
 The course can be found here: https://www.thinkautonomous.ai/point-clouds
 
